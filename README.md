@@ -29,6 +29,6 @@ Salve sua resposta em um arquivo chamado answer.csv com duas colunas: **NU_INSCR
 
 Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
 
-## Observações
+## Solução
 
-O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
+Notebook: [link](https://github.com/bosamatheus/enem-2016/blob/master/codenation_enem_2016.ipynb)
